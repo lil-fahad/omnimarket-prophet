@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+tensorflow
+requests
+ta
+joblib
+shap
+yfinance
+polygon-api-client
